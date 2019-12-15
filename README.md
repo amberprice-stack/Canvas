@@ -5,7 +5,5 @@ Canvas is a simple drawing program made with HTML. The user holds the Shift key 
 * https://htmlpreview.github.io/?https://github.com/amberprice-stack/Canvas/blob/master/AmberPrice_ProgrammingExercise6_13.3.html
 # Built With
  * Notepad
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 # Authors
 * Amber Price
